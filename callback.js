@@ -10,3 +10,4 @@ function sendMessage() {
 }
 
 goHome(sendMessage)
+console.log('Hi')
